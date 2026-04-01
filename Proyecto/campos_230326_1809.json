@@ -1,0 +1,350 @@
+[
+  {
+    "nombre": "idProyecto_iGTO",
+    "tipo": "bigint"
+  },
+  {
+    "nombre": "FolioObraAccion",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "Ejercicio",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idProyectoInversion",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idMetaSED",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idDependencia",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "DescripcionObraAccion",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "EmpleosPermanentesMujeres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "EmpleosEventualesMujeres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "EmpleosPermanentesHombres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "EmpleosEventualesHombres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "NombreSimplificadoObraAccion",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "idCategoria",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idSubCategoria",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "FechaEntrega",
+    "tipo": "smalldatetime"
+  },
+  {
+    "nombre": "Latitud",
+    "tipo": "float"
+  },
+  {
+    "nombre": "Longitud",
+    "tipo": "float"
+  },
+  {
+    "nombre": "idEstado",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idMunicipio",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idLocalidad",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idMunicipioUbica",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idLocalidadUbica",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idTipoAsentamiento",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "NombreAsentamiento",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "idTipoVialidad",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "NombreVialidad",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "NumeroExterior",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "NumeroInterior",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "CodigoPostal",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "idZonaImpulso",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "MontoEstatal",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoDeuda",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoRecursoPropio",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoFederal",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoMunicipal",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoOtro",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoBeneficiario",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoTotal",
+    "tipo": "money"
+  },
+  {
+    "nombre": "MontoTotalSFIA",
+    "tipo": "money"
+  },
+  {
+    "nombre": "EsRefrendo",
+    "tipo": "bit"
+  },
+  {
+    "nombre": "AnioRefrendo",
+    "tipo": "int"
+  },
+  {
+    "nombre": "FolioRelacionado",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "idTipoObraAccion",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idTipo",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idStatusObraAccion",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idStatusAvance",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "ObservacionesStatusAvance",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "ObservacionesGenerales",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "BenefTotal",
+    "tipo": "int"
+  },
+  {
+    "nombre": "BenefMujeres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "BenefHombres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idCCT",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idInformeGobierno",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idSituacion",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "CifrasEstimadas",
+    "tipo": "bit"
+  },
+  {
+    "nombre": "idTipoObraAccionG1",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "CompromisoG1",
+    "tipo": "bit"
+  },
+  {
+    "nombre": "esVerEnMapaPublico",
+    "tipo": "bit"
+  },
+  {
+    "nombre": "idObjetivoPG",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idEstrategiaPG",
+    "tipo": "int"
+  },
+  {
+    "nombre": "Enfoques",
+    "tipo": "text"
+  },
+  {
+    "nombre": "Agendas",
+    "tipo": "text"
+  },
+  {
+    "nombre": "created_idOrigenDato",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "bloqueo_at",
+    "tipo": "datetime"
+  },
+  {
+    "nombre": "bloqueo_by",
+    "tipo": "int"
+  },
+  {
+    "nombre": "created_at",
+    "tipo": "datetime2"
+  },
+  {
+    "nombre": "created_by",
+    "tipo": "int"
+  },
+  {
+    "nombre": "updated_at",
+    "tipo": "datetime2"
+  },
+  {
+    "nombre": "updated_by",
+    "tipo": "int"
+  },
+  {
+    "nombre": "deleted_at",
+    "tipo": "datetime2"
+  },
+  {
+    "nombre": "deleted_by",
+    "tipo": "int"
+  },
+  {
+    "nombre": "EmpleosProtegidosMujeres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "EmpleosProtegidosHombres",
+    "tipo": "int"
+  },
+  {
+    "nombre": "updated_idOrigenDato",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "idEjeEstrategico",
+    "tipo": "smallint"
+  },
+  {
+    "nombre": "esContigoSi",
+    "tipo": "bit"
+  },
+  {
+    "nombre": "NombreComercial",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "NombreComercialPropuestaJorge",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "NombreComercialPropuestaSofi",
+    "tipo": "nvarchar"
+  },
+  {
+    "nombre": "idZonaImpulsoSugerida",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idZonaSeguridad",
+    "tipo": "int"
+  },
+  {
+    "nombre": "ClaveTipoActo",
+    "tipo": "int"
+  },
+  {
+    "nombre": "idRevisadoPor",
+    "tipo": "int"
+  },
+  {
+    "nombre": "fechaRevision",
+    "tipo": "timestamp"
+  },
+  {
+    "nombre": "geom",
+    "tipo": "geometry"
+  },
+  {
+    "nombre": "idZonaImpulsoAnterior",
+    "tipo": "int"
+  },
+  {
+    "nombre": "esZAPCalculada",
+    "tipo": "bit"
+  }
+]
