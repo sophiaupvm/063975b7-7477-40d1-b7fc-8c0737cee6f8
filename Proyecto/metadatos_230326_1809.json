@@ -1,0 +1,47 @@
+{
+  "Clasificación y sensibilidad": {
+    "clasificacion": "restringido",
+    "pii": "no",
+    "criticidad": "alto",
+    "regulacion": "INTERNA GOB DATOS"
+  },
+  "Gobierno y responsabilidad": {
+    "dominio_negocio": "abc",
+    "linea_negocio": "abc",
+    "responsable": "",
+    "contacto_tecnico": "",
+    "estado": "en_revision"
+  },
+  "Cadencia y ciclo de vida": {
+    "frecuencia": "mensual",
+    "retencion": "2 años",
+    "ciclo_vida": "almacenamiento_activo"
+  },
+  "Propósito, uso y consumo": {
+    "proposito": "reportes",
+    "consumidores": "GOB",
+    "formato_entrega": "",
+    "fuente_origen": ""
+  },
+  "Calidad y reglas": {
+    "calidad": "media",
+    "reglas_calidad": "",
+    "ultima_revision": "2026-03-23"
+  },
+  "Búsqueda, etiquetas y semántica": {
+    "etiquetas": "aaa",
+    "terminos_glosario": "aaaa",
+    "palabras_clave": "aaaa",
+    "idioma": "espñol"
+  },
+  "Acceso y cumplimiento": {
+    "criterios_acceso": "token",
+    "sla_disponibilidad": "no",
+    "certificado": "no"
+  },
+  "Relaciones y documentación externa": {
+    "dependencias": "asdf",
+    "doc_externa": "aas",
+    "notas": "asf"
+  }
+}
